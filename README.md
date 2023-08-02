@@ -43,4 +43,6 @@ Module 1 Learning Objectives
   Pictures/Module 1 Learning Objectives/about_us.png
   Pictures/Module 1 Learning Objectives/contact_us.png
 
+GIT SSH PUSH
+GIT_SSH_COMMAND="ssh -i /home/project/ssh" git push
   
