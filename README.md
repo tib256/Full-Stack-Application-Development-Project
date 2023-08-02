@@ -34,3 +34,13 @@ You must complete all the labs to successfully complete the project.
 **Containerize your application**
 1. Add deployment artifacts to your application
 2. Deploy your application
+
+
+Student: Fiák Tibor
+Pictrues location:
+Module 1 Learning Objectives
+  Pictures/Module 1 Learning Objectives/django_server.png
+  Pictures/Module 1 Learning Objectives/about_us.png
+  Pictures/Module 1 Learning Objectives/contact_us.png
+
+  
